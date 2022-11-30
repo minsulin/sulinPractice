@@ -18,7 +18,7 @@
 <body>
 
 		<h1>MongoDB 연결</h1>
-		<h1>sulin_급급!!</h1>
+		<h1>sulin_급급!!!!!!!</h1>
 <ul>
 	<li><a href="insert.jsp">회원추가</a></li>
 	<li><a href="ListMongo.jsp">회원목록조회</a></li>
